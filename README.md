@@ -9,8 +9,8 @@ Yes, it is buggy. It might not converge sometimes but it is limited to 10000 ite
 
 ## How to run the program:
   - Dependencies
-	  - Python 3.7.9 
-	  - numpy 1.19.2 [Installed on pip]
+	  - Python >= 3.7.9 (never test on older python)
+	  - numpy >= 1.19.2 (never test on older numpy)
   - open your terminal at the directory of this program (make sure that this python file is in the empty folder as it will generate some files) then type 
 	  ```
     python3 ./quorum_sensing.py
