@@ -16,3 +16,7 @@ Yes, it is buggy. It might not converge sometimes so the number might jump high.
     python3 ./quorum_sensing.py
     ```
     and follow the instruction on the screen. The result will print out in terminal (or stdout if you redirect it to grep or some other program) that will print out the estimated number of quorum (which is `w*h`) and the error of estimator. 
+
+## Code
+
+Here is a [link to the code](https://aukkawut.github.io/quorum_sensing/quorum_sensing.py)
